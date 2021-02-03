@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/postman=Postman.desktop
+
+[Added Associations]
+text/plain=code-oss.desktop;
+application/octet-stream=code-oss.desktop;Alacritty.desktop;

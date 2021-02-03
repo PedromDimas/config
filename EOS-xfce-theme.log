@@ -1,0 +1,12 @@
+If you agree to change Xfce theme to EndeavourOS default, your previous theme
+will be saved into folder /home/dimas/.config/xfce4.20210127-00:08:54
+
+To restore the previous theme:
+     - remove folder /home/dimas/.config/xfce4
+     - rename /home/dimas/.config/xfce4.20210127-00:08:54 into /home/dimas/.config/xfce4
+
+(Note: this info is stored into file /home/dimas/.config/EOS-xfce-theme.log).
+
+Reboot is required for the theme change to take effect.
+
+Accept theme change and reboot now?
